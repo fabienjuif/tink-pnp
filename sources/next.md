@@ -1,0 +1,2 @@
+ - Arcanis reference this: https://github.com/nodejs/modules/issues/82
+ - "With tink, we're storing these per file in the distribution, which will in the long term open up the possibility of smaller and faster downloads from npm.": https://www.theregister.co.uk/2018/09/15/npm_yarn_project/
