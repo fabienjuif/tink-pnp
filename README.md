@@ -1,4 +1,4 @@
-# Le future de la gestion des dépendances Node.js
+# Le futur de la gestion des dépendances Node.js
 ## Who
  - Fabien JUIF [[Twitter](https://twitter.com/fabienjuif) | [Github](https://github.com/fabienjuif)]
 
